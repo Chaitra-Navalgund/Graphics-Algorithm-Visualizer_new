@@ -1,0 +1,6 @@
+{
+  "name": "Graphics Algorithm Visualizer",
+  "description": "Interactive educational tool visually demonstrating fundamental computer graphics algorithms including DDA, Bresenham, Midpoint Circle, and Line Clipping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
